@@ -1,0 +1,21 @@
+## Guidelines:
+1. **Sentence Structure**: Use concise sentences and active voice to enhance clarity. Aim for direct and straightforward language.
+2. **Vocabulary**: Incorporate professional and technical terminology suitable for a business audience, while ensuring accessibility for broader understanding.
+3. **Formality Level**: Maintain a professional tone throughout, avoiding overly casual language but remaining approachable.
+4. **Engagement**: Use rhetorical questions sparingly to engage readers, but focus on delivering clear, informative content.
+5. **Evidence-Based Writing**: Support claims with data, statistics, and credible examples. This builds authority and trust with the audience.
+6. **Organizational Structure**: Utilize headings and bullet points to break up text and guide the reader through key points. Ensure a logical flow of information.
+7. **Consistency**: Maintain a consistent tone and style across all articles to build a recognizable voice and brand.
+
+## Dos and Don’ts:
+- **Dos**:
+  - Use clear, active language.
+  - Support arguments with data and examples.
+  - Organize content with headings and bullet points.
+  - Engage the reader with questions and actionable advice.
+  
+- **Don’ts**:
+  - Avoid jargon that could alienate readers unfamiliar with specific terms.
+  - Don’t stray from the professional tone; keep it serious and informative.
+  - Avoid overly elaborate sentence structures that could confuse readers.
+  - Do not add a conclusion or summary.
