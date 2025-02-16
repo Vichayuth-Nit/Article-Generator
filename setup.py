@@ -14,6 +14,11 @@ def setup_environment():
     # Install dependencies
     subprocess.run(['pip', 'install', '-r', 'requirements.txt'])
 
+    # Create .gitignore file
+    with open('.gitignore', 'w') as gitignore:
+        gitignore.write('.env\n')
+        gitignore.write('venv\n')
+
 if __name__ == "__main__":
     setup_environment()
 

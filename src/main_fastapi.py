@@ -23,7 +23,7 @@ topic_prompt_template = """Generate a relevant and engaging topic title and desc
 - The description should provide a brief overview of the topic and provide a detailed article structure plan (e.g., introduction, key points).
 - Do not mention {target_audience} directly in the topic.
 - Your structure should be clear and concise, focusing on the main points.
-- Do not make a conclusion in the structure plan.
+- Do not add a conclusion secction in the structure plan.
 
 Respond in the following JSON format:
 {{
@@ -180,7 +180,7 @@ with gr.Blocks() as demo:
 
 app = FastAPI()
 
-@app.post("/")
+@app.get("/")
 async def generate_topic_endpoint():
     return {"message": "Welcome to the Jenosize Assignment Article Generator! \
         Please use the /generate_topic and /generate_article endpoints to generate topics and articles. \
